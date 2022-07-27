@@ -8,5 +8,6 @@ class Sum
 		res=a+b;
 		System.out.println("Sum of 10 & 25 is :"+res);
 		System.out.println("Thank YOu & have a nice day");
+		System.out.println("Thank you for joining GCP Devops course");
 	}
 }
